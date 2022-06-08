@@ -6,9 +6,6 @@
 <p align="center">
     <a href="https://github.com/MuszynHub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuszynHub&theme=github-dark-blue&show_icons=true&hide_border=true" alt="Muszyn's github streak stats"></a>
 </p>
-<p align="center">
-    <a href="https://github.com/MuszynHub"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuszynHub&layout=compact&theme=x&hide_border=true&bg_color=0d1117" alt="Muszyn's github streak stats"></a>
-</p>
 
 <br></br>
 
