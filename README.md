@@ -1,16 +1,36 @@
-#  **🍥 Hi there! 🍥**
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuszynHub&show_icons=true&theme=radical&hide_border=true)](https://github.com/MuszynHub/github-readme-stats)
+<h1 align="center"><b>🦍 Hi There 🦍</b></h1>
 
 <p align="center">
-
-<a href="https://github.com/MuszynHub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuszynHub&theme=radical&show_icons=true&hide_border=true" alt="Muszyn's github streak stats"></a>
-
+    <a href="https://github.com/MuszynHub"><img src="https://github-readme-stats.vercel.app/api?username=MuszynHub&show_icons=true&theme=codeSTACKr&hide_border=true" alt="Muszyn's github streak stats"></a>
+</p>
+<p align="center">
+    <a href="https://github.com/MuszynHub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuszynHub&theme=github-dark-blue&show_icons=true&hide_border=true" alt="Muszyn's github streak stats"></a>
+</p>
+<p align="center">
+    <a href="https://github.com/MuszynHub"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuszynHub&layout=compact&theme=codeSTACKr&hide_border=true" alt="Muszyn's github streak stats"></a>
 </p>
 
 <br></br>
 
-## 🎀 Know well
+<h2 align="center">🦍 Know Well</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+</p>
+<h2 align="center">🐒 Have some experience</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+</p>
+<h2 align="center">🍌 Currently learning</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+</p>
+
+<!-- ## 🎀 Know well
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,10 +44,11 @@
 ## 🧠 Currently learning
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+<br></br> -->
+
 <br></br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuszynHub&theme=redical&hide_border=true)](https://github.com/MuszynHub/github-readme-activity-graph)
-
 
 
 
