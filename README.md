@@ -1,9 +1,10 @@
 #  **🍥 Hi there! 🍥**
+<div style="display:flex;">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuszynHub&show_icons=true&theme=radical)](https://github.com/MuszynHub/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+</div>
 <br></br>
 
 ## 🎀 Know well
