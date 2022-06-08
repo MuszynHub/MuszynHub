@@ -1,13 +1,9 @@
-<h1 align="center"><b>🦍 Hi There 🦍</b></h1>
+<h1 align="center"><b> Hi There </b></h1>
 
 <p align="center">
     <a href="https://github.com/MuszynHub"><img src="https://github-readme-stats.vercel.app/api?username=MuszynHub&show_icons=true&theme=x&hide_border=true&bg_color=0d1117" alt="Muszyn's github streak stats"></a>
-</p>
-<p align="center">
     <a href="https://github.com/MuszynHub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuszynHub&theme=github-dark-blue&show_icons=true&hide_border=true" alt="Muszyn's github streak stats"></a>
 </p>
-
-<br></br>
 
 <h2 align="center">🦍 Know Well</h2>
 <p align="center">
@@ -42,8 +38,6 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 <br></br> -->
-
-<br></br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuszynHub&theme=x&hide_border=true&bg_color=0d1117&color=1f6fea&line=58a5fe)](https://github.com/MuszynHub/github-readme-activity-graph)
 
