@@ -1,10 +1,13 @@
 #  **🍥 Hi there! 🍥**
-<div style="display:flex;">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuszynHub&show_icons=true&theme=radical)](https://github.com/MuszynHub/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuszynHub&show_icons=true&theme=radical&hide_border=true)](https://github.com/MuszynHub/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
-</div>
+<p align="center">
+
+<a href="https://github.com/MuszynHub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuszynHub&theme=radical&show_icons=true&hide_border=true" alt="Muszyn's github streak stats"></a>
+
+</p>
+
 <br></br>
 
 ## 🎀 Know well
@@ -23,7 +26,7 @@
 
 <br></br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuszynHub&theme=redical)](https://github.com/MuszynHub/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuszynHub&theme=redical&hide_border=true)](https://github.com/MuszynHub/github-readme-activity-graph)
 
 
 
