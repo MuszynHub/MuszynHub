@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-    <img src="https://img.shields.io/badge/https://commons.wikimedia.org/wiki/File:Arduino_Logo.svg?style=for-the-badge&logo=SASS&logoColor=white">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
     
 </p>
 <h2 align="center">🐒 Have some experience</h2>
